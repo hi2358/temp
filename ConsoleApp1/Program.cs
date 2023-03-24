@@ -10,8 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("충돌 후 업데이트!");
-            Console.WriteLine("두번째꺼 고치기!");
+            Console.WriteLine("재충돌 업데이트!");
+            Console.WriteLine("세번째꺼 고치기!");
         }
     }
 }
