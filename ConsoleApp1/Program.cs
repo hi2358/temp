@@ -10,8 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("재충돌 후");
-            Console.WriteLine("66");
+            Console.WriteLine("재충돌 후2");
+            Console.WriteLine("662");
         }
     }
 }
