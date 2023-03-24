@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("브랜치!");
+            Console.WriteLine("충돌 전 업데이트!");
         }
     }
 }
