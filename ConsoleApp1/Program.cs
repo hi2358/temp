@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("AAAAA");
-            Console.WriteLine("00000");
+            Console.WriteLine("11111");
         }
     }
 }
