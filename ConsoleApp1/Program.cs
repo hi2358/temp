@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("재충돌 업데이트!");
-            Console.WriteLine("첫번째꺼 고치기!");
+            Console.WriteLine("2");
         }
     }
 }
